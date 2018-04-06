@@ -1,0 +1,161 @@
+Convirtiendo script GML: ${project_dir}\scripts\sys_SetWeather\sys_SetWeather.gml
+Cadena incluida - línea 8: view_wview -> __view_get( e__VW.WView, 0 )
+Cadena incluida - línea 8: view_hview -> __view_get( e__VW.HView, 0 )
+
+Convirtiendo script GML: ${project_dir}\scripts\sys_ChangeBackground\sys_ChangeBackground.gml
+Cadena incluida - línea 8: view_wview -> __view_get( e__VW.WView, 0 )
+Cadena incluida - línea 9: view_wview -> __view_get( e__VW.WView, 0 )
+Cadena incluida - línea 14: view_hview -> __view_get( e__VW.HView, 0 )
+
+Convirtiendo script GML: ${project_dir}\scripts\Dialogue\Dialogue.gml
+Descripción convertida /// @description Dialogue(actor ID, text)/// @param actor ID
+/// @param  text
+
+Convirtiendo script GML: ${project_dir}\scripts\DialogueFlag\DialogueFlag.gml
+Descripción convertida /// @description DialogueFlag(flag ID, flag value, actor ID, text)/// @param flag ID
+/// @param  flag value
+/// @param  actor ID
+/// @param  text
+
+Convirtiendo script GML: ${project_dir}\scripts\PlayMusic\PlayMusic.gml
+Descripción convertida /// @description PlayMusic(music, fade in time)/// @param music
+/// @param  fade in time
+
+Convirtiendo script GML: ${project_dir}\scripts\SetWeather\SetWeather.gml
+Descripción convertida /// @description SetWeather(weather ID, create particles on start)/// @param weather ID
+/// @param  create particles on start
+
+Convirtiendo script GML: ${project_dir}\scripts\StopMusic\StopMusic.gml
+Descripción convertida /// @description StopMusic(fade out time)/// @param fade out time
+
+Convirtiendo script GML: ${project_dir}\scripts\ChangeBackground\ChangeBackground.gml
+Descripción convertida /// @description ChangeBackground(background, position)/// @param background
+/// @param  position
+
+Convirtiendo script GML: ${project_dir}\scripts\ChangeBackgroundFade\ChangeBackgroundFade.gml
+Descripción convertida /// @description ChangeBackgroundFade(background, position, fade color, time)/// @param background
+/// @param  position
+/// @param  fade color
+/// @param  time
+
+Convirtiendo script GML: ${project_dir}\scripts\KnownActor\KnownActor.gml
+Descripción convertida /// @description KnownActor(actor ID)/// @param actor ID
+
+Convirtiendo script GML: ${project_dir}\scripts\FadeIn\FadeIn.gml
+Descripción convertida /// @description FadeIn(time, color)/// @param time
+/// @param  color
+
+Convirtiendo script GML: ${project_dir}\scripts\FadeOut\FadeOut.gml
+Descripción convertida /// @description FadeOut(time, color)/// @param time
+/// @param  color
+
+Convirtiendo script GML: ${project_dir}\scripts\PlaySound\PlaySound.gml
+Descripción convertida /// @description PlaySound(sound)/// @param sound
+
+Convirtiendo script GML: ${project_dir}\scripts\ZoomIn\ZoomIn.gml
+Descripción convertida /// @description ZoomIn(amount, time)/// @param amount
+/// @param  time
+
+Convirtiendo script GML: ${project_dir}\scripts\ZoomOut\ZoomOut.gml
+Descripción convertida /// @description ZoomOut(amount, time)/// @param amount
+/// @param  time
+
+Convirtiendo script GML: ${project_dir}\scripts\Wait\Wait.gml
+Descripción convertida /// @description Wait(amount, show textbox after waiting)/// @param amount
+/// @param  show textbox after waiting
+
+Convirtiendo script GML: ${project_dir}\scripts\CreateVFX\CreateVFX.gml
+Descripción convertida /// @description CreateVFX(object, xpos, ypos, creation step, total steps of wait, show textbox before waiting, show textbox after waiting)/// @param object
+/// @param  xpos
+/// @param  ypos
+/// @param  creation step
+/// @param  total steps of wait
+/// @param  show textbox before waiting
+/// @param  show textbox after waiting
+
+Convirtiendo script GML: ${project_dir}\scripts\Show\Show.gml
+Descripción convertida /// @description Show(time, character 1, character 2, ...)/// @param time
+/// @param  character 1
+/// @param  character 2
+/// @param  ...
+
+Convirtiendo script GML: ${project_dir}\scripts\ChangeState\ChangeState.gml
+Descripción convertida /// @description ChangeState(state)/// @param state
+
+Convirtiendo script GML: ${project_dir}\scripts\DialogueOptions\DialogueOptions.gml
+Descripción convertida /// @description DialogueOptions(actor ID, text, flag ID, choice 1, choice 2, ...)/// @param actor ID
+/// @param  text
+/// @param  flag ID
+/// @param  choice 1
+/// @param  choice 2
+/// @param  ...
+
+Convirtiendo script GML: ${project_dir}\scripts\DialogueOptionsFlag\DialogueOptionsFlag.gml
+Descripción convertida /// @description DialogueOptionsFlag(flag id to check, flag value to check, actor ID, text, flag ID, choice 1, choice 2, ...)/// @param flag id to check
+/// @param  flag value to check
+/// @param  actor ID
+/// @param  text
+/// @param  flag ID
+/// @param  choice 1
+/// @param  choice 2
+/// @param  ...
+
+!!! La fuente ft_normal usa una fuente (Playtime With Hot Toddies) no instalada en este sistema - La fuente NO se ha regenerado
+!!! La fuente ft_bold usa una fuente (Playtime With Hot Toddies) no instalada en este sistema - La fuente NO se ha regenerado
+Convirtiendo script GML: ${project_dir}\objects\obj_main\Create_0.gml
+Cadena incluida - línea 100: view_wview -> __view_get( e__VW.WView, 0 )
+Descripción convertida /// @description INITIALIZE
+
+Convirtiendo script GML: ${project_dir}\objects\obj_main\Alarm_2.gml
+Cadena incluida - línea 16: view_wview -> __view_get( e__VW.WView, 0 )
+Cadena incluida - línea 17: view_wview -> __view_get( e__VW.WView, 0 )
+Cadena incluida - línea 22: view_hview -> __view_get( e__VW.HView, 0 )
+
+Convirtiendo script GML: ${project_dir}\objects\obj_main\Draw_64.gml
+Cadena incluida - línea 6: view_wview -> __view_get( e__VW.WView, 0 )
+Cadena incluida - línea 6: view_hview -> __view_get( e__VW.HView, 0 )
+
+Convirtiendo script GML: ${project_dir}\objects\obj_game\Create_0.gml
+Descripción convertida /// @description SCENE 1
+
+Convirtiendo script GML: ${project_dir}\objects\obj_game\Alarm_0.gml
+Cadena incluida - línea 3: view_wview -> __view_get( e__VW.WView, 0 )
+
+Convirtiendo script GML: ${project_dir}\objects\obj_game\Draw_64.gml
+Cadena incluida - línea 92: view_wview -> __view_get( e__VW.WView, 0 )
+Cadena incluida - línea 112: view_wview -> __view_get( e__VW.WView, 0 )
+Cadena incluida - línea 4: view_hview -> __view_get( e__VW.HView, 0 )
+Cadena incluida - línea 93: view_hview -> __view_get( e__VW.HView, 0 )
+Cadena convertida - línea 21: '"' -> "\""
+Cadena convertida - línea 26: '"' -> "\""
+
+Convirtiendo script GML: ${project_dir}\objects\obj_game\Draw_0.gml
+Cadena incluida - línea 29: view_hview -> __view_get( e__VW.HView, 0 )
+Cadena incluida - línea 52: view_hview -> __view_get( e__VW.HView, 0 )
+
+Convirtiendo script GML: ${project_dir}\objects\obj_snowFlake\Step_0.gml
+Cadena incluida - línea 1: view_hview -> __view_get( e__VW.HView, 0 )
+
+El script del instalador de Windows NSIS se ha pasado a predeterminado debido a cambios en GameMaker Studio 2
+Falta el grupo de audio para el sonido: "mus_lullaby_of_open_eyes" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "mus_cold_iron" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "mus_student_council" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "mus_hokabi" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "sfx_rustling" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "sfx_transition" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "sfx_heart" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "sfx_heartfast" - pasando el grupo de audio a predeterminado
+Falta el grupo de audio para el sonido: "sfx_heartdouble" - pasando el grupo de audio a predeterminado
+Velocidad del juego fijada en 60
+Añadido el script de compatibilidad "background/background_get_height.gml"
+Añadido el script de compatibilidad "background/background_get_width.gml"
+Añadido el script de compatibilidad "background/draw_background.gml"
+Añadido el script de compatibilidad "background/draw_background_stretched.gml"
+Añadido el script de compatibilidad "draw/draw_set_blend_mode.gml"
+Añadido el script de compatibilidad "instance/instance_create.gml"
+Añadido el script de compatibilidad "object/object_get_depth.gml"
+Añadido el script de compatibilidad "view/__view_get.gml"
+Añadido el script de compatibilidad "background/__init_background.gml"
+Añadido el script de compatibilidad "view/__init_view.gml"
+Añadido el script de compatibilidad "__init_global.gml"
+Añadido el script de compatibilidad "__global_object_depths.gml"

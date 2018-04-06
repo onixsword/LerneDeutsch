@@ -1,0 +1,2 @@
+global.canClick = 1;
+
